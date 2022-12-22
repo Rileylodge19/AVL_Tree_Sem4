@@ -1,0 +1,25 @@
+File already exists.
+Please enter a number: 
+Successfully wrote to the file.
+Please enter a number: 
+Successfully wrote to the file.
+Please enter a number: 
+Successfully wrote to the file.
+Please enter a number: 
+Successfully wrote to the file.
+Please enter a number: 
+Successfully wrote to the file.
+Please enter a number: 
+Successfully wrote to the file.
+Please enter a number: 
+Successfully wrote to the file.
+Please enter a number: 
+Successfully wrote to the file.
+R----4
+   L----2
+   |  L----1
+   |  R----3
+   R----6
+      L----5
+      R----7
+         R----9
